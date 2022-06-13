@@ -1,0 +1,5 @@
+The search button is made bigger than  the input field on the main page.
+1. Go to the site https://trainingcentre.wixsite.com.
+2. Take a look at the search button.
+Actual result: The search button is made bigger than the input field on the main page.
+Expected result: The search button is displayed the same size as the input field and the search button on the main page.
