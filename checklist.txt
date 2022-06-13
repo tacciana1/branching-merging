@@ -1,0 +1,40 @@
+Site http://opencart.qatestlab.net/	
+1. Home page					
+1.1	Cart dropdown:				
+a	Add product	
+b	Delete product	
+c	QTY	
+d	Total		
+1.2	Search				
+a	Test search filters (if present)		
+b	Test search results page		
+c	Test no search results page	
+1.3	Newsletters subscription				
+a	Subscribe with email the first time - check successful message		
+b	Subscribe with empty field - check validation message	
+c	Subscribe with already subscribed email - check validation message		
+2. Sign in					
+2.1	Returning Customer				
+2.1.1	Validation messages, for required fields:				
+a	Empty fields	
+b	Incorrect email		
+c	Password less than 6 symbols	
+d	Add valid data		
+3. Cart					
+3.2	Full cart:				
+a	Add 1 product
+b	Add 10+ products	
+c	Change number of items(from 10 to 0)		
+d	Ability to return to the basket and order when the browser is unexpectedly closed		
+e	Remove product(cross, checkbox, QTY=0)		
+f	Update shopping cart		
+g	Continue shopping		
+h	Proceed to Checkout	
+4.	Wishlist				
+4.1.	Creating a wishlist.		
+4.2.	Delete a wishlist.	
+4.3.	Check the possibility of adding 10 items to a wishlist.		
+4.4.	Ability to return to the wishlist after the browser is unexpectedly closed.		
+5.	Other				
+5.1.	Ability to sign out of account.	
+5.2.	Сheck the possibility of comparing goods on the site	
